@@ -1,0 +1,39 @@
+.div_speed
+{
+    float: left;
+}
+
+.div_volume
+{
+    float: right;
+}
+
+.div_speed_img, .div_volume_img
+{
+   width: 200px;
+   border-radius: 100px;
+}
+
+#viyuh, #tiyuh
+{
+    width: 120px;
+    font-size: 25px;
+    border-radius: 35px;
+}
+
+#tiyuh
+{
+    margin-left: 52px;
+}
+
+#volume, #speed
+{
+    width : 150px;
+    height : 50px;
+    font-size: 20px;
+}
+
+canvas
+{
+  margin-top: 0px;
+}
